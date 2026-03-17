@@ -2,7 +2,7 @@
 
 > Backend Developer · AWS Certified · Nairobi, Kenya
 
-Live site: 
+Live site: https://syntaxamurai.github.io/backend_portfolio/
 
 ---
 
@@ -76,7 +76,7 @@ portfolio/
 
 No installs needed.
 ```bash
-git clone https://github.com/syntaxamurai/portfolio.git
+git clone https://github.com/syntaxamurai/backend_portfolio.git
 cd portfolio
 ```
 
@@ -91,7 +91,7 @@ Hosted on GitHub Pages.
 Settings → Pages → Deploy from branch → main / root → Save
 ```
 
-Live at: ``
+Live at: `https://syntaxamurai.github.io/backend_portfolio/`
 
 ---
 
@@ -99,7 +99,7 @@ Live at: ``
 
 - Email: [justinabwunza@gmail.com](mailto:justinabwunza@gmail.com)
 - GitHub: [github.com/justinabwunza](https://github.com/syntaxamurai)
-- Portfolio: [syntaxamurai-portfolio.vercel.app](https://syntaxamurai-portfolio.vercel.app)
+- Portfolio: [syntaxamurai.github.io/backend_portfolio/](https://syntaxamurai.github.io/backend_portfolio/))
 
 ---
 
